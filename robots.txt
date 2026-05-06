@@ -1,0 +1,5 @@
+# https://rojana-fresh-milk.netlify.app/
+User-agent: *
+Allow: /
+
+Sitemap: https://rojana-fresh-milk.netlify.app/sitemap.xml
