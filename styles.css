@@ -1353,8 +1353,12 @@ body.lang-en .about-tagline-lead {
   height: 100%;
   display: block;
   object-fit: cover;
-  object-position: center top;
+  object-position: center center;
   transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.director-card-photo:last-child .director-photo {
+  object-position: center 15%;
 }
 
 .director-card-photo:hover .director-photo {
